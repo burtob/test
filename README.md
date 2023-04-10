@@ -1,5 +1,1 @@
-# Github test repository
-
-## Learn Phython
-
-## Another headline
+# Finanz Dashboard
